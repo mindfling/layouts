@@ -1,21 +1,19 @@
 {
   "name": "ski-people-layouts",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "open": "vite --open",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@a1rth/css-normalize": "^1.2.0",
-    "lit": "^2.7.6"
+    "@a1rth/css-normalize": "^1.2.0"
   },
   "devDependencies": {
     "sass": "^1.89.2",
-    "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
   }
 }
